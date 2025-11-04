@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_jzyUILmwEfCWX_wtOPkijg" name="Practical-Excercises">
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_j3vAALmwEfCWX_wtOPkijg">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Class" xmi:id="_rPeCkLmwEfCWX_wtOPkijg" name="Class2" useCase="_srHhMLmwEfCWX_wtOPkijg _vHkVgLmwEfCWX_wtOPkijg">
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_srHhMLmwEfCWX_wtOPkijg" name="UseCase1" subject="_rPeCkLmwEfCWX_wtOPkijg"/>
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_vHkVgLmwEfCWX_wtOPkijg" name="UseCase2" subject="_rPeCkLmwEfCWX_wtOPkijg"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_sMx_YLmwEfCWX_wtOPkijg" name="Actor3"/>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_sbHWULmwEfCWX_wtOPkijg" name="Actor4"/>
+</uml:Model>
